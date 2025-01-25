@@ -17,7 +17,7 @@ git clone https://github.com/BetaniaLoboViana/Cria-o-de-Rede-Neural-Baseada-no-D
 
 2. Execute o código:
 
-python redeneuraldozero.py
+python rede_neural_do_zero.py
 
 ## Estrutura do Código
 
